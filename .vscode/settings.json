@@ -1,0 +1,6 @@
+{
+    "prettier.printWidth": 140,
+    "prettier.trailingComma": "all",
+    "prettier.singleQuote": true,
+    "prettier.bracketSpacing": false
+}
